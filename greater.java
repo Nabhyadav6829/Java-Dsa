@@ -21,5 +21,6 @@ class greater{
                 System.out.println("c is greater1");
             }
         }
+        sc.close();//always close the scanner as it prevents memory leak
     }
 }

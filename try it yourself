@@ -1,0 +1,36 @@
+1. find leap yaer leap year that repeat every 4th year ,century is not leap year example 1700,1800,1900,2000 etc; 
+   if it is century year but   it comes in 400 so its leap year
+
+2. grading system,number 90 se bde hai toh 'a; 80 se uppr 'b' bla bla bla...
+
+3.Triangle validator if a+b>c,a+c>b,b+c>a
+
+4. vowel or consonents 
+
+5. password validator:    learn system.console(), at least 8 charachter,atleast 1 uppercase,1 special charachter,
+   and one digit,print valid if valid else print invalid;
+
+6. LCM(Least Common Multiple);
+
+7. GCD(Greatest Common Divisor);
+
+8. Perfect number: number that is equal to the sum of all its proper divisor(divisors excluding number it self) ex 6=3*2*1 and 1+2+3=6
+   28=1+2+4+7+14 and 1*2*4*7*14=28
+
+9. reverse a number;(leetcode 7)
+
+10. armstrong number 
+
+11. strong number/Peterson number
+
+12. frequency of each digit in the number (map,Hashing);
+
+13. 
+
+
+
+
+
+
+
+
